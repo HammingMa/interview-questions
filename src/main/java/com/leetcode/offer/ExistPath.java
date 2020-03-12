@@ -1,4 +1,4 @@
-package com.mzh.leetcode.offer;
+package com.leetcode.offer;
 
 public class ExistPath {
 

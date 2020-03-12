@@ -1,4 +1,4 @@
-package com.mzh.leetcode.offer;
+package com.leetcode.offer;
 
 import java.util.Arrays;
 import java.util.Stack;

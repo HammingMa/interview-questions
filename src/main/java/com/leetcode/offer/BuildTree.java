@@ -1,6 +1,4 @@
-package com.mzh.leetcode.offer;
-
-import org.omg.PortableInterceptor.INACTIVE;
+package com.leetcode.offer;
 
 import java.util.HashMap;
 import java.util.Map;
